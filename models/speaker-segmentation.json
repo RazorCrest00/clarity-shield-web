@@ -1,0 +1,20 @@
+{
+  "source": "onnx-community/pyannote-segmentation-3.0",
+  "revision": "733a93b6473d019a773298e08cefa686894b1854",
+  "license": "MIT",
+  "localId": "speaker-segmentation",
+  "embedding": {
+    "source": "altunenes/speaker-diarization-community-1-onnx",
+    "revision": "e2e09da94ae093a56cd5a60a09b138ae3da1959c",
+    "upstream": "pyannote/speaker-diarization-community-1",
+    "license": "CC-BY-4.0",
+    "path": "embedding_model.onnx",
+    "sha256": "b62448ababb2ee9fc1ce51870553507893ea427fb1fd77e199af425ff1ed0677"
+  },
+  "files": [
+    {"path": "config.json", "sha256": "5a4c6bb4f49f1b47c9bd398aac78b8cd4a9f30a0ff91b5c2dc68d05e13e160cf"},
+    {"path": "preprocessor_config.json", "sha256": "dfc7d35a3895f8997eb94521e28b1921c03480a34fa9bcbb6bef1f1934f81480"},
+    {"path": "onnx/model.onnx", "sha256": "057ee564753071c0b09b5b611648b50ac188d50846bff5f01e9f7bbf1591ea25"},
+    {"path": "README.md", "sha256": "5caca54f4629125247e94da397f4f9ddb114622f58cbe0fc964664591d1b42d1"}
+  ]
+}

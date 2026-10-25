@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[8182,["500","static/chunks/500-c99b8dfd3de17c86.js","159","static/chunks/159-c9009eecbef88543.js","81","static/chunks/app/report/page-c7849517beea312a.js"],"ReportWorkspace"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/clarity-shield-web/_next/static/css/956921ecde41fa59.css","style"]
+:HL["/clarity-shield-web/_next/static/css/c185b7622dbc830e.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"page_page__jxzHp","children":[["$","h1",null,{"className":"page_srOnly__3l_8E","children":"Clarity Report"}],["$","$L2",null,{}]]}],[["$","link","0",{"rel":"stylesheet","href":"/clarity-shield-web/_next/static/css/956921ecde41fa59.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/clarity-shield-web/_next/static/css/c185b7622dbc830e.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Vf5LoG0ujLgN9HSL8wsn0"}
+5:null

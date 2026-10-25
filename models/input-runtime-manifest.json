@@ -1,0 +1,45 @@
+{
+  "artifactVersion": 1,
+  "files": {
+    "whisper-tiny-en/added_tokens.json": "560be47bea388757f8d4cc185c5d82067426cbb6361e38016dd90ddc01ab203a",
+    "whisper-tiny-en/config.json": "251ea843b5901a99efa58c0b99b8052c6019aa3e7d2baf46693a1128ff606233",
+    "whisper-tiny-en/generation_config.json": "7b2e8451ed5f118e75fdd991409d72119d21d2fef1eba9723f68fb9c57fe5dc9",
+    "whisper-tiny-en/merges.txt": "1ce1664773c50f3e0cc8842619a93edc4624525b728b188a9e0be33b7726adc5",
+    "whisper-tiny-en/normalizer.json": "bf1c507dc8724ca9cf9903640dacfb69dae2f00edee4f21ceba106a7392f26dd",
+    "whisper-tiny-en/onnx/decoder_model_merged_q4.onnx": "57d4303f3bbc8bb4016273b172285236f5719c75e8a7d23b7265cfa1d71494a4",
+    "whisper-tiny-en/onnx/encoder_model_q4.onnx": "bb73f790e63906c9e9d02c4e3abf55817dd16fd7ef7c7f4754c1395202191b29",
+    "whisper-tiny-en/preprocessor_config.json": "a6a76d28c93edb273669eb9e0b0636a2bddbb1272c3261e47b7ca6dfdbac1b8d",
+    "whisper-tiny-en/special_tokens_map.json": "98bdf3ec5b32e31575b02f64b0a32bde7c0449075d34484a7df9bdd3cdeb9fb9",
+    "whisper-tiny-en/tokenizer.json": "5eb60cec1e77aeeb6869a2bb5a8e01a84c3fe5d072d75369343021fe6f5310d0",
+    "whisper-tiny-en/tokenizer_config.json": "93879c3dccdd4b976f709acd85b44778873f30c275e67026f30ca1e4c975230c",
+    "whisper-tiny-en/vocab.json": "f6bd25a65e4e63ca31360e9fb11c7e4f9a391a78385d640acd814092dd6eee4f",
+    "tesseract/eng.traineddata.gz": "ed350f3752f81ee8f38769edc14d92d997dababe23b565c59879372cc46a2468",
+    "tesseract/worker.min.js": "576b7df7e3393e137e51849357c9adb53fe7ac1bb69bfa06cf3d61520f182c6d",
+    "tesseract/tesseract-core-lstm.wasm.js": "eef5f8b2f8e20e150680b20adaec4a60babafee3adbe8a94583c81fee46e8680",
+    "tesseract/tesseract-core-lstm.wasm": "66b17df6e20c5329a17ffa9c202a47eaa3e32500b253d4c7f38e7f2bc01457c3",
+    "tesseract/tesseract-core-simd-lstm.wasm.js": "c58b46a4c796c0b8afccf77591d5b875b6896b45d402bbce8caa6f5362447b38",
+    "tesseract/tesseract-core-simd-lstm.wasm": "34e8d50cac216427d86bf397d610fdd9f49492539bbcdfbfccc4eda20c810bea",
+    "tesseract/tesseract-core-relaxedsimd-lstm.wasm.js": "861a536cf9ef8e63cb644d57bab39c388f37f7d6b6f60024b741c5f6b39a59b3",
+    "tesseract/tesseract-core-relaxedsimd-lstm.wasm": "7985c92d4c64e7267d24cadffe1b2a1da6bf8aa55fdcaf953fe94fe122a24545",
+    "whisper-wasm/ort-wasm-simd-threaded.mjs": "5f2cd914554830762579c372d0211614c1e3f40ab3f6c0cfcf0900343229071d",
+    "whisper-wasm/ort-wasm-simd-threaded.wasm": "f4f290847a4df02d0b93cdbf39b4b0e71acefbe80573e7e6b9342a7abd7b290a"
+  },
+  "ocr": {
+    "language": "eng",
+    "license": "Apache-2.0",
+    "revision": "gh-pages/4.0.0",
+    "source": "naptha/tessdata"
+  },
+  "packages": {
+    "@huggingface/transformers": "4.2.0",
+    "onnxruntime-web": "1.26.0-dev.20260416-b7804b056c",
+    "tesseract.js": "7.0.0",
+    "tesseract.js-core": "7.0.0"
+  },
+  "whisper": {
+    "license": "Apache-2.0",
+    "localId": "whisper-tiny-en",
+    "revision": "2575352d61be1bf7225cf8f8b268a4678025fc58",
+    "source": "onnx-community/whisper-tiny.en"
+  }
+}
