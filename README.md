@@ -10,3 +10,8 @@ Model attribution and licenses: [models/README.md](models/README.md).
 Demo provenance and third-party recording rights: [demos/README.md](demos/README.md).
 
 Bundled package license notices are retained under `licenses/`.
+
+The website uses Cloudflare Web Analytics for aggregate visits, page views and
+loading performance. Scan content is not sent to analytics. Browser Do Not
+Track and Global Privacy Control disable the tracker. See the
+[privacy page](https://razorcrest00.github.io/clarity-shield-web/privacy/).
